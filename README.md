@@ -25,16 +25,7 @@ The goal of the project is to demonstrate **test automation framework design**, 
 
 ---
 
-# Installation
-
-## 1. Clone the repository
-
-```
-git clone <repository-url>
-cd tennis-reservation-automation
-```
-
-## 2. Install dependencies
+## 1. Install dependencies
 
 Install all required packages using:
 
